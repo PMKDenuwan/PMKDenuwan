@@ -1,58 +1,140 @@
-# <div align="center">![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Kavindu+Denuwan+%F0%9F%91%8B;Full-Stack+Developer+%7C+Problem+Solver;UI%2FUX+Designer+%7C+Data+Analyst;QA+Engineer+%7C+Business+Analyst;Building+Digital+Solutions+That+Matter)</div>
+# <div align="center">![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=32&duration=2800&pause=1200&color=A9FEF7&center=true&vCenter=true&width=900&lines=Hey+there%2C+I'm+Kavindu+Denuwan+%F0%9F%91%8B;Full-Stack+Developer+%7C+Problem+Solver;UI%2FUX+Designer+%7C+Data+Analyst;QA+Engineer+%7C+Business+Analyst;Building+Digital+Experiences+That+Matter)</div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=160&section=header&text=Welcome%20to%20My%20Digital%20Universe&fontSize=38&fontColor=fff&animation=twinkling&fontAlignY=28"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20My%20Digital%20Universe&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 </div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=PMKDenuwan&color=0891b2&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/PMKDenuwan?style=for-the-badge&color=0891b2&labelColor=1c1917" alt="Followers" />
-  <img src="https://img.shields.io/badge/Open%20For-Internship-brightgreen?style=for-the-badge" alt="Open for Internship" />
+  <img src="https://img.shields.io/badge/Open%20For-Internship-brightgreen?style=for-the-badge&logo=handshake&logoColor=white" alt="Open for Internship" />
+  <img src="https://img.shields.io/badge/Status-Available-success?style=for-the-badge&logo=calendar&logoColor=white" alt="Available" />
 </div>
 
 ---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> **About Me**
-
-```typescript
-const kavindu: Developer = {
-    location: "Matara, Sri Lanka 🇱🇰",
-    education: "BSc (Hons) IT @ SLIIT | Final Year",
-    currentStatus: "Seeking Software Engineering Internship",
-    
-    coreStacks: {
-        primary: "MERN Stack (MongoDB, Express.js, React.js, Node.js)",
-        secondary: "Spring Boot + Hibernate + MySQL + React"
-    },
-    
-    multiDomainExpertise: [
-        "Full-Stack Development 💻",
-        "UI/UX Design 🎨", 
-        "Data Analytics & Visualization 📊",
-        "Quality Assurance & Testing 🔍",
-        "Business Analysis 📈",
-        "Mobile Development 📱"
-    ],
-    
-    philosophy: "Clean code, scalable architecture, user-centric design",
-    superpower: "Bridging the gap between business needs and technical solutions",
-    currentFocus: "Building production-ready applications with modern tech stacks"
-};
-```
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40"> **About Me**
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PMKDenuwan&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" />
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400" alt="Coding GIF" />
+</div>
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="300px">
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100" alt="Rocket" />
+<br><strong>🎓 Final Year IT Student</strong>
+<br><em>BSc (Hons) Specialized in Infromation Technology @ SLIIT, Sri Lanka</em>
+<br><sub>Graduating 2026 </sub>
+</td>
+<td align="center" width="300px">
+<img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="100" alt="Code" />
+<br><strong>💻 Multi-Stack Developer</strong>
+<br><em>MERN & Spring Boot Expert</em>
+<br><sub>Full-Stack | Mobile | Desktop</sub>
+</td>
+<td align="center" width="300px">
+<img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="100" alt="Design" />
+<br><strong>🎨 Creative Technologist</strong>
+<br><em>UI/UX Designer & Analyst</em>
+<br><sub>User-Centered Design Approach</sub>
+</td>
+</tr>
+</table>
+</div>
+
+<div align="center">
+
+### 🚀 **My Journey in Code**
+
+```typescript
+class KavinduDenuwan {
+    constructor() {
+        this.name = "Kavindu Denuwan";
+        this.location = "📍 Matara, Sri Lanka 🇱🇰";
+        this.education = "🎓 BSc (Hons) IT @ SLIIT";
+        this.status = "🔥 Ready for Internship Adventures";
+        this.passion = "💡 Turning Ideas into Digital Reality";
+    }
+
+    getCurrentFocus(): string[] {
+        return [
+            "🌐 Building scalable web applications",
+            "📱 Designing intuitive mobile experiences", 
+            "📊 Creating data-driven insights",
+            "🔧 Crafting robust backend systems",
+            "✨ Always learning cutting-edge tech"
+        ];
+    }
+
+    getCoreValues(): object {
+        return {
+            codeQuality: "Clean, maintainable, and well-documented",
+            userExperience: "Intuitive, accessible, and delightful",
+            teamwork: "Collaborative, communicative, and supportive",
+            growth: "Continuous learning and skill enhancement",
+            impact: "Building solutions that matter"
+        };
+    }
+
+    getSuperpowers(): string[] {
+        return [
+            "🎯 Multi-domain expertise (SE, UI/UX, Data, QA, BA)",
+            "⚡ Rapid learning and technology adaptation",
+            "🤝 Bridge technical and business requirements",
+            "🎨 Balance aesthetics with functionality",
+            "🔄 Transform complex problems into simple solutions"
+        ];
+    }
+}
+
+const developer = new KavinduDenuwan();
+console.log("Ready to contribute to your team's success! 🚀");
+```
+
+</div>
+
+<div align="center">
+
+### 🌟 **What Drives Me**
+
+<table>
+<tr>
+<td align="center" width="200px">
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="80" alt="Innovation" />
+<br><strong>Innovation</strong>
+<br><sub>Always exploring new tech</sub>
+</td>
+<td align="center" width="200px">
+<img src="https://media.giphy.com/media/3o7TKTDn976rzVgky4/giphy.gif" width="80" alt="Problem Solving" />
+<br><strong>Problem Solving</strong>
+<br><sub>Love complex challenges</sub>
+</td>
+<td align="center" width="200px">
+<img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="80" alt="User Focus" />
+<br><strong>User Focus</strong>
+<br><sub>Design with empathy</sub>
+</td>
+<td align="center" width="200px">
+<img src="https://media.giphy.com/media/l378khQxt68syiWJy/giphy.gif" width="80" alt="Growth" />
+<br><strong>Growth</strong>
+<br><sub>Never stop learning</sub>
+</td>
+</tr>
+</table>
+
 </div>
 
 ---
 
-## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"> **Technology Stack**
+## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35"> **Technology Arsenal**
 
 <div align="center">
 
 ### 🎯 **Frontend Development**
 <div>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,figma&theme=dark" />
   <br>
   <img src="https://img.shields.io/badge/JavaFX-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="JavaFX" />
 </div>
@@ -71,7 +153,7 @@ const kavindu: Developer = {
 
 ### 📱 **Mobile & Desktop Development**
 <div>
-  <img src="https://skillicons.dev/icons?i=kotlin,java&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=kotlin,java,figma&theme=dark" />
 </div>
 
 ### 📊 **Data Analytics & Visualization**  
@@ -84,7 +166,7 @@ const kavindu: Developer = {
 
 ### 🛠️ **Tools & Platforms**
 <div>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode,azure&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode,azure,idea&theme=dark" />
   <br>
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
 </div>
@@ -100,7 +182,7 @@ const kavindu: Developer = {
 
 ---
 
-## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Rik/giphy.gif" width="30"> **Professional Expertise**
+## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Rik/giphy.gif" width="35"> **Professional Expertise**
 
 <div align="center">
 <table>
@@ -153,7 +235,7 @@ const kavindu: Developer = {
 
 ---
 
-## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="30"> **Featured Projects**
+## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="35"> **Featured Projects**
 
 <div align="center">
 <table>
@@ -170,12 +252,15 @@ const kavindu: Developer = {
 ```yaml
 Focus: Sri Lankan Coconut Farmers
 Timeline: Feb 2025 - May 2025
-Features:
-  • Disease detection & management
-  • Appointment scheduling system  
-  • Dynamic information forums
+My Role: Full-Stack Developer
+Key Features:
+  • Disease detection & management system
+  • Appointment scheduling for farmers
+  • Dynamic information sharing forums
   • Automated report generation
   • Real-time data validation
+  • Weather pattern integration
+Impact: Supporting Southern Province farmers
 ```
 
 </td>
@@ -191,12 +276,15 @@ Features:
 ```yaml
 Focus: Educational Social Network
 Timeline: Apr 2025 - Jun 2025
-Features:
+My Role: Backend & Frontend Developer
+Key Features:
   • Social media functionality
-  • Learning plan management
-  • Video content sharing
-  • User interaction system
+  • Learning plan management system
+  • Video content sharing platform
+  • User interaction & following system
   • Educational progress tracking
+  • Content recommendation engine
+Impact: Connecting history enthusiasts globally
 ```
 
 </td>
@@ -212,36 +300,42 @@ Features:
 </div>
 
 ```yaml
-Focus: Construction Industry
+Focus: Construction Industry Solutions
 Timeline: Jul 2024 - Oct 2024
-Features:
-  • Client data management
-  • Project scheduling
-  • Report generation system
-  • Appointment handling  
-  • Resource allocation
+My Role: Client Management Specialist
+Key Features:
+  • Comprehensive client data management
+  • Project scheduling & timeline tracking
+  • Automated report generation system
+  • Appointment handling & reminders
+  • Resource allocation dashboard
+  • Budget tracking & analytics
+Impact: Streamlining construction workflows
 ```
 
 </td>
 <td width="50%">
 
-### 📊 **Data Analytics Dashboard**
-**Python + Power BI | Business Intelligence**
+### 🚢 **NAVIGA - Boat Tracking System**
+**UI/UX Design | Mobile Application**
 
 <div align="left">
-<img src="https://skillicons.dev/icons?i=python&theme=dark" />
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
+<img src="https://skillicons.dev/icons?i=figma&theme=dark" />
 </div>
 
 ```yaml
-Focus: Business Intelligence
-Timeline: Ongoing
-Features:
-  • Interactive dashboards
-  • Real-time data processing
-  • Custom visualizations
-  • Automated reporting
-  • Business insights generation
+Focus: Maritime Navigation & Safety
+Timeline: Design Project
+My Role: UI/UX Designer
+Key Features:
+  • Vessel tracking & roadmap visualization
+  • Weather pattern integration
+  • Wave condition monitoring
+  • Trip planning based on conditions
+  • Intuitive maritime-focused interface
+  • Real-time navigation assistance
+Impact: Enhancing maritime safety & efficiency
+Technology: Figma Design System
 ```
 
 </td>
@@ -270,18 +364,7 @@ Features:
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=PMKDenuwan&theme=react&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideNums=ffffff&currStreakNum=ffffff&dates=ffffff&sideLabels=ffffff&hide_border=true" />
 </div>
 
----
-
-## <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="35"> **Contribution Activity**
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/PMKDenuwan/PMKDenuwan/output/github-contribution-grid-snake-dark.svg" />
-</div>
-
----
-
-## 🏅 **Certifications & Learning**
-
+🏅 Certifications & Learning
 <div align="center">
 <table>
 <tr>
@@ -302,8 +385,8 @@ Features:
 </td>
 <td align="center">  
 <img src="https://cdn-icons-png.flaticon.com/512/201/201614.png" width="32" alt="Certificate" />
-<br><strong>IT for Business Success</strong>
-<br><sub>HP LIFE</sub>
+<br><strong>Python Programming</strong>
+<br><sub>University of Moratuwa</sub>
 </td>
 </tr>
 </table>
@@ -311,70 +394,74 @@ Features:
 
 ---
 
-## <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="35"> **What Makes Me Stand Out**
+## <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="40"> **Why Choose Me?**
 
 <div align="center">
 
-### 🎯 **Multi-Domain Versatility**
-*Ready for SE, Data Analysis, UI/UX, Business Analysis, and QA roles*
+### 🎯 **The Complete Package**
 
-### 🛠️ **Production-Ready Skills**  
-*Experience with real-world projects and modern development practices*
+<table>
+<tr>
+<td align="center" width="250px">
+<img src="https://media.giphy.com/media/l378khQxt68syiWJy/giphy.gif" width="100" alt="Multi-Domain" />
+<br><strong>🌐 Multi-Domain Expertise</strong>
+<br><sub>Ready for SE, Data Analysis, UI/UX, Business Analysis, and QA roles</sub>
+</td>
+<td align="center" width="250px">
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100" alt="Production Ready" />
+<br><strong>🛠️ Production-Ready Skills</strong>
+<br><sub>Real-world project experience with modern development practices</sub>
+</td>
+<td align="center" width="250px">
+<img src="https://media.giphy.com/media/3o7TKTDn976rzVgky4/giphy.gif" width="100" alt="Team Player" />
+<br><strong>🤝 Team Collaboration</strong>
+<br><sub>Strong foundation in Agile methodologies and cross-functional teamwork</sub>
+</td>
+</tr>
+</table>
 
-### 🤝 **Team Collaboration**
-*Strong foundation in Agile methodologies and cross-functional teamwork*
-
-### 📈 **Continuous Growth**
-*Always learning and adapting to new technologies and industry trends*
+### 💡 **My Development Philosophy**
+*"Code is poetry written for machines, but designed for humans. Every line should tell a story, solve a problem, and create value."*
 
 </div>
 
 ---
 
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30"> **Let's Connect**
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="35"> **Let's Connect & Build Something Amazing**
 
 <div align="center">
 
-### 💡 **"Great software is built by great teams solving real problems"**
+### 🚀 **Ready to Contribute to Your Team's Success!**
 
 <br>
 
-[![Email](https://img.shields.io/badge/Email-kavindudenuwan2002@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kavindudenuwan2002@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kavindu%20Denuwan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kavindu-denuwan-21a876338)
-[![GitHub](https://img.shields.io/badge/GitHub-PMKDenuwan-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PMKDenuwan)
-[![Phone](https://img.shields.io/badge/Phone-+94702456870-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+94702456870)
+[![Email](https://img.shields.io/badge/Email-kavindudenuwan2002@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:kavindudenuwan2002@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kavindu%20Denuwan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://linkedin.com/in/kavindu-denuwan-21a876338)
+[![GitHub](https://img.shields.io/badge/GitHub-PMKDenuwan-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=100000)](https://github.com/PMKDenuwan)
+[![Phone](https://img.shields.io/badge/Phone-+94702456870-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=25D366)](tel:+94702456870)
 
 </div>
 
 <div align="center">
 
-### 🚀 **Ready for Internship Opportunities**
-
-**Passionate about building scalable solutions • Quick learner • Team player**  
-**Open to Software Engineering, Data Analytics, UI/UX Design, QA, and Business Analysis roles**
-
-</div>
-
----
-
-<div align="center">
-
-### 📍 **Location: Matara, Sri Lanka**
-### 🎓 **Education: BSc (Hons) IT @ SLIIT (Final Year)**
-### 💼 **Status: Actively seeking internship opportunities**
+### 📍 **Currently Based in Matara, Sri Lanka**
+### 🎓 **Final Year BSc (Hons) IT Student @ SLIIT**
+### 💼 **Actively Seeking Internship Opportunities**
 
 <br>
 
-*"I don't just write code, I craft digital experiences that solve real problems and create value for businesses and users alike."*
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300" alt="Ready to Code" />
+
+### 🌟 **"Ready to turn your ideas into digital reality!"** 🌟
 
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
 </div>
 
 ---
 
 <div align="center">
-<i>⭐️ From <a href="https://github.com/PMKDenuwan">Kavindu Denuwan</a> - Ready to contribute to your team's success!</i>
+<i>⭐️ From <a href="https://github.com/PMKDenuwan">Kavindu Denuwan</a> - Let's build the future together!</i>
 </div>
